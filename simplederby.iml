@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Documents/Derby-10.14.2.0/db-derby-10.14.2.0-bin/demo/programs/simple">
+      <sourceFolder url="file://$USER_HOME$/Documents/Derby-10.14.2.0/db-derby-10.14.2.0-bin/demo/programs/simple/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Documents/Derby-10.14.2.0/db-derby-10.14.2.0-bin/demo/programs/simple" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Derby-10.14.2.0/db-derby-10.14.2.0-bin/lib/derby.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

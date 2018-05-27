@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sun May 27 16:33:31 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0163-a385-48f9-00000f600000 
+on database directory C:\Users\rdnot\IdeaProjects\simplederby\derbyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5 
+Loaded from file:/C:/Users/rdnot/Documents/Derby-10.14.2.0/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=10+46
+user.dir=C:\Users\rdnot\IdeaProjects\simplederby
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 27 16:33:33 CDT 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Sun May 27 16:33:33 CDT 2018:
+Shutting down instance a816c00e-0163-a385-48f9-00000f600000 on database directory C:\Users\rdnot\IdeaProjects\simplederby\derbyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5 
+----------------------------------------------------------------
